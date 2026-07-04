@@ -175,7 +175,7 @@ Potential extensions include:
 
 ## Author
 
-**Melika Rahimpour Rahimpour**
+**Melika Rahimpour**
 
 Computer Science Graduate
 
